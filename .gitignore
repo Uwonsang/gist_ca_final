@@ -1,0 +1,11 @@
+.vscode/
+__pycache__/
+*.zip
+etc/
+human_play_data/
+*.txt
+*.bat
+stages/00_00_for_debug.json
+stages/00_01_for_debug.json
+test_bed.py
+baba_imgs/templates/
